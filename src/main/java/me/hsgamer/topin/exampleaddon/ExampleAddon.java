@@ -1,6 +1,6 @@
 package me.hsgamer.topin.exampleaddon;
 
-import me.hsgamer.topin.core.bukkit.addon.object.Addon;
+import me.hsgamer.topin.addon.object.Addon;
 
 public final class ExampleAddon extends Addon {
 
