@@ -14,7 +14,8 @@
   <properties>
     <java.version>1.8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <project.mainClass>me.hsgamer.topin.exampleaddon.ExampleAddon</project.mainClass>
+    <project.mainAddonClass>me.hsgamer.topin.exampleaddon.MainAddon</project.mainAddonClass>
+    <project.mainPluginClass>me.hsgamer.topin.exampleaddon.MainPlugin</project.mainPluginClass>
   </properties>
 
   <build>

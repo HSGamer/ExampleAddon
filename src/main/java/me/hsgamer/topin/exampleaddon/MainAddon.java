@@ -2,7 +2,7 @@ package me.hsgamer.topin.exampleaddon;
 
 import me.hsgamer.topin.addon.object.Addon;
 
-public final class ExampleAddon extends Addon {
+public final class MainAddon extends Addon {
 
   /**
    * Called when loading the addon
